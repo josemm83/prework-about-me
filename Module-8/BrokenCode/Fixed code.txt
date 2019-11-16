@@ -1,0 +1,11 @@
+1. Adjusted the code to make it more simplified
+2. Commented out the section for instructions
+3. Added <h1></h1> to Boo the dog fan page
+4. Formated the bio information with <p>
+5. Added the link to the wiki page
+6. Added <> for the image to appear
+7. Replaced errors.js to logic.js
+8. Added <li></li> to list the items of Boo's favorite things
+9. Added "" to grow, pink, and shrink in the javascript portion
+10. Changed button colors from textGreen to green, textOrange to orange, and textPink to pink
+11. Added quotes to make the array on the random facts

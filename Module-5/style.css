@@ -1,0 +1,34 @@
+#para1{
+    color: red;
+}
+#para2{
+    color: blue;
+}
+#para3{
+    color: green;
+}
+#para4{
+    font-size: 24px;
+}
+#para5{
+    font-size: 8px;
+}
+#para6{
+    text-align: center;
+}
+#para7{
+    font-weight: bold;
+}
+#para8{
+    font-family: Courier;
+}
+.styledFont{
+    color: orange;
+    font-size: 18px;
+    font-weight: bold;
+}
+#styledImage{
+    border-style: solid;
+    border-color: orange;
+    border-width: 10px;
+}
